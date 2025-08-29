@@ -4,6 +4,13 @@
 Mastermind is a classic code-breaking game that requires logic and reasoning.  
 In this project, we implemented an **AI-based solver** for the game using a **logical elimination strategy**.  
 The goal is to demonstrate how Artificial Intelligence can solve constraint-based problems through search and optimization techniques.
+##  Run Online
+
+You can run this project directly in your browser using Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sheerah5/Mastermind-Solver-Project/HEAD?urlpath=lab/tree/mastermind_solver.ipynb)
+
+Click the button above to launch the solver without installing anything locally.
 
 ---
 
